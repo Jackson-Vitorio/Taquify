@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+
+# Áudio e transcrições — privacidade, nunca versionar
+*.wav
+*.m4a
+*.opus
+*.mp3
+audio/
+transcricoes/
+
+# Python (fase 2)
+.venv/
+venv/
+__pycache__/
+
+# Modelos de IA
+models/
